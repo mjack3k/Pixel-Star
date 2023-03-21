@@ -1,7 +1,7 @@
 # Pixel-Star
 PCB star with RGB LEDs, xmas decoration
 
-![PCB Render](https://github.com/mjack3k/Pixel-Star/render_01.png "Kicad PCB 3D-render")
+![PCB Render](https://github.com/mjack3k/Pixel-Star/blob/main/render_01.png "Kicad PCB 3D-render")
 
 
 
